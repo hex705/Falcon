@@ -1,0 +1,1 @@
+open thispatcherinclude "Macintosh HD:/Applications/Max5/Cycling '74/CNMAT-Everything-OSX-MachO/OpenSoundControl.mxo"include "Macintosh HD:/Applications/Max5/Cycling '74/max-externals/np_nifalcon.mxo"
